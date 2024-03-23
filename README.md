@@ -1,7 +1,7 @@
 ## COMMAND :
 
 
-* `rm -rf AUTO-SHARE`
+* `rm -rf OLD-CLONING`
 
 * `git clone https://github.com/MR-META-404-CYBER/OLD-CLONING.git`
 
